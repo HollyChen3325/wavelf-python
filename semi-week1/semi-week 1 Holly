@@ -1,0 +1,8 @@
+print("Let's check on the animals!")
+print('The zoo entrance is right here.')
+print('The animal house is right that way.')
+print()
+print("The waterbirds look healthy.")
+print('The monkeys are happy as usual.')
+print('The tigers aren't bored.')
+print('I think that all the animals are well!')
